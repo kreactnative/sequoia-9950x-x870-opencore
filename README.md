@@ -4,3 +4,4 @@
 #### KLEVV CRAS V RGB DDR5 6000 24GBX2
 #### RX 580
 ![title](resources/c23-amd-p.png)
+![title](resources/c24-amd-p.jpg)
